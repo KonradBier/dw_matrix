@@ -1,2 +1,2 @@
-# dw_matrix
-ML project
+# dw_matrix - transformation project
+Machine Learning solution
